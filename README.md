@@ -35,6 +35,7 @@
 2. The dataset includes auction configurations consisting of the product information, retail price, bid fee, and bid increment. Under each configuration, multiple auctions were being held.
 
 > Byers, J. W.; Mitzenmacher, M.; and Zervas, G. 2010. Information asymmetries in pay-per-bid auctions. In Proceedings of the 11th ACM conference on Electronic commerce, 1–12.
+>
 > Augenblick, N. 2016. The sunk-cost fallacy in penny auctions. The Review of Economic Studies, 83(1): 58–86.
 
 # Reference
